@@ -1,4 +1,4 @@
-# 🛍️ E-Shop - Frontend
+# 🛍️ E-Shop 
 
 ## 🌐 Live Demo
 [E-Shop](https://e-shopf.netlify.app/)
